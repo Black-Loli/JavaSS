@@ -20,6 +20,6 @@ public class Student {
                 ", Name='" + Name + '\'' +
                 ", Age=" + Age +
                 ", Group=" + Group +
-                '}';
+                "}";
     }
 }
